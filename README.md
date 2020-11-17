@@ -1,0 +1,2 @@
+# Calibration_Simulate
+使用OpenCV中的Viz模块获取虚拟相机的图像，完成采集棋盘格图像进行标定的任务
