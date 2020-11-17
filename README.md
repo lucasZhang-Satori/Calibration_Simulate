@@ -3,9 +3,7 @@
 
 博客地址： https://blog.csdn.net/qq_29600745/article/details/109745972
 
-版本：OpenCV 4.2.0 
-
-      VTK 7.1.1
+版本：OpenCV 4.2.0 + VTK 7.1.1
       
 运行时注意修改：
 
