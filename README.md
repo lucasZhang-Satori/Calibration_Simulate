@@ -7,3 +7,6 @@
 运行时注意修改：
 1. CMakelists中的OpenCV路径
 2. main.cpp中棋盘格图像的路径
+
+运行效果：
+![image](https://github.com/zhangzelu/Calibration_Simulate/blob/main/Image/vtk3_1.gif)
